@@ -18,7 +18,7 @@ This project contains 2 subprojects that demonstrate different principles and el
 - [x] Data structure from STL (such as a vector, list, or map)
 - [x] Stretch Goal: demonstrate inheritance with virtual functions.
 
-[Software Demo Video](https://youtu.be/iakPW1WJny0)
+[Software Demo Video](https://youtu.be/Q9AAgasmpqA)
 
 # Development Environment
 
@@ -57,6 +57,7 @@ This project contains 2 subprojects that demonstrate different principles and el
 
 # Future Work
 
+- Bug: Make sure last player's move in Tic Tac Toe shows up consistently
 - Add more game options
 - Add a GUI for the games (rather than just console based)
 - Get actual projects setup (rather than individual files) and run in Visual Studio
