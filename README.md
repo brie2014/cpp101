@@ -18,7 +18,7 @@ This project contains 2 subprojects that demonstrate different principles and el
 - [x] Data structure from STL (such as a vector, list, or map)
 - [x] Stretch Goal: demonstrate inheritance with virtual functions.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/iakPW1WJny0)
 
 # Development Environment
 
